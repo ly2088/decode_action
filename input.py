@@ -1,4 +1,4 @@
-# 变量名：sfsyUrl
+# 变量名：sfsyUrl1
 # 格式：多账号用&分割或创建多个变量sfsyUrl
 # 关于参数获取如下两种方式：
 # ❶顺丰APP绑定微信后，前往该站点sm.linzixuan.work用微信扫码登录后，选择复制编码Token，不要复制错
